@@ -19,5 +19,3 @@ function prependDriver() {
   return ["Arnold", ...drivers]
 }
 removeLastDriver() {
-  return drivers.pop()
-}
