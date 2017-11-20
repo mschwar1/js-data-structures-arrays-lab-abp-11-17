@@ -18,4 +18,3 @@ function appendDriver() {
 function prependDriver() {
   return ["Arnold", ...drivers]
 }
-removeLastDriver() {
